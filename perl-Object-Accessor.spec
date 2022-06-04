@@ -4,7 +4,7 @@
 #
 Name     : perl-Object-Accessor
 Version  : 0.48
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Object-Accessor-0.48.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Object-Accessor-0.48.tar.gz
 Summary  : 'Per object accessors'
@@ -82,4 +82,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Object/Accessor.pm
+/usr/lib/perl5/*

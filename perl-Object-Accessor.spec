@@ -4,7 +4,7 @@
 #
 Name     : perl-Object-Accessor
 Version  : 0.48
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Object-Accessor-0.48.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Object-Accessor-0.48.tar.gz
 Summary  : 'Per object accessors'
